@@ -1,4 +1,4 @@
-# Image Classification using InceptionV3 and Resnet
+# Image Classification using InceptionV3 and ResNet
 
 ## Business Objective
 
@@ -69,21 +69,6 @@ A model is to be built that can correctly classify a t-shirt image into plain or
 
 4. **Lib** - This folder contains 1 notebooks:
    - `image_classification.ipynb`
-
----
-
-## Project Takeaways
-
-1. CNN
-2. Data Augmentation
-3. Transfer Learning
-4. Inception and Resnet Models?
-5. Hyperparameters
-6. Optimizers
-7. Fit and Train the Model
-8. Save the Model
-9. Predictions on the Test Data
-10. Evaluating the Results with Metrics like Precision, Recall, and Accuracy
 
 ---
 
